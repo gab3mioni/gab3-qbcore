@@ -2,6 +2,6 @@
 
 some work in qb-core from fivem
 
-Maioria dos scripts que você vai encontrar aqui, são nativos da framework qb-core, mas com tradução para o Português Brasileiro e algumas otimizações.
+Mistura de scripts nativos do qb-core, só que traduzidos para o PT-BR e otimizadoos e scripts próprios disponíveis no github, mas podem ser encontrados também aqui.
 
-Most of the scripts you will find here are native to the qb-core framework, but with Brazilian Portuguese translations and optimizations for weaker computers.
+Mix of native qb-core scripts, only translated to PT-BR and optimized and own scripts available on github, but can also be found here.
