@@ -7,8 +7,6 @@ version '1.0'
 
 shared_scripts {
     'config.lua',
-    --'locales/pt.lua'
-    --'@qb-core/import.lua'
 }
 
 client_scripts {
